@@ -21,8 +21,8 @@ This is a decentralized token exchange (Swap) application demo based on React an
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/wspn-lizhigang/wpsn-stableflow-openapi-web.git
-cd wpsn-stableflow-openapi-web
+git clone https://github.com/wspn-lizhigang/wspn-stableflow-openapi-web.git
+cd wspn-stableflow-openapi-web
 ```
 
 ### 2. Install Dependencies
